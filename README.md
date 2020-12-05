@@ -1,2 +1,2 @@
-# sa-egzamas-tedavisi
+# sacegzamasitedavisi
 Saç egzaması tedavisi 
